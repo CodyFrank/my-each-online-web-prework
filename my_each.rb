@@ -7,3 +7,5 @@ def my_each(array)
     end
   end
 end
+
+my_each()
