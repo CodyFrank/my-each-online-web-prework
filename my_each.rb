@@ -5,5 +5,6 @@ def my_each(array)
       yeild(array[index])
       counter += 1
     end
+    array
   end
 end
